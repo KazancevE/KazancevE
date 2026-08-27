@@ -17,8 +17,8 @@ I take on end-to-end freelance projects: from a single landing page to a full-st
 
 ## 📫 Let's work together
 
-- Telegram: [@your_telegram](https://t.me/your_telegram)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio-link](https://example.com)
+- Telegram: [@kazancevEgor](https://t.me/kazancevEgorm)
+- Email: kazanceve.gor@gmail.com
+- Portfolio: [kazancevegor.online]((https://kazancevegor.online/))
 
 Open to freelance projects — reach out if you need a site, bot, or integration built end-to-end.
